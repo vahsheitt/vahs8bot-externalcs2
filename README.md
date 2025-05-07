@@ -74,7 +74,7 @@ Fiyat Bilgisi **INSTAGRAM ve TELEGRAM** üzerinden verilmektedir. İletişim Bil
 ## 📸 Görseller
 
 
-![Resim 1](https://i.imgur.com/uu8j0h1.jpg)
+![Resim 1](https://imgur.com/DTMXbtR)
 ![Resim 2](https://i.imgur.com/wNnpiJL.jpg)
 
 
