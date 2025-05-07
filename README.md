@@ -3,7 +3,9 @@
 **vahs8bot**, Counter-Strike 2 (CS2) oyunu için geliştirilmiş, kullanıcı dostu Türkçe **external diagnostic hile paketidir**.  
 Herhangi bir ban yemeniz söz konusu bile değildir
 
+
 ---
+
 
 ## 🔧 Özellikler
 
@@ -27,7 +29,9 @@ Herhangi bir ban yemeniz söz konusu bile değildir
 - Tam çözünürlük uyumluluğu  
 - Otomatik güncelleme sistemi
 
+
 ---
+
 
 ## 🔐 Güvenlik & Koruma | Ban yedirir mi?
 
@@ -36,7 +40,9 @@ Oyun dosyalarına müdahale etmeden yalnızca ekran üzerine veri yansıtır.
 Bu yapı, geleneksel iç müdahalelere göre %99 daha düşük risk profiline sahiptir.  
 **Yine de, bu sistemin çok oyunculu ortamlarda kullanılmasını tavsiye etmiyoruz.**
 
+
 ---
+
 
 ## 🛠️ Satım Alım ve Paketler
 
@@ -60,15 +66,20 @@ Fiyat Bilgisi **INSTAGRAM ve TELEGRAM** üzerinden verilmektedir. İletişim Bil
 6. Oyuna geçin ve **INSERT** tuşu ile menüyü açın/kapatın.
 
 7. Kapatmak için **END** tuşunu bir kez kullanmanız yeterlidir.
+
    
 ---
 
+
 ## 📸 Görseller
 
-https://imgur.com/a/uu8j0h1
-https://imgur.com/wNnpiJL
+
+![Resim 1](https://i.imgur.com/uu8j0h1.jpg)
+![Resim 2](https://i.imgur.com/wNnpiJL.jpg)
+
 
 ---
+
 
 ## 🛠️ İletişim
 
