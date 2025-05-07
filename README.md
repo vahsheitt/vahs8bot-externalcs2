@@ -7,7 +7,7 @@ Herhangi bir ban yemeniz söz konusu bile değildir
 
 ## 🔧 Özellikler
 
-### Görsel Gözlem Modülü (ESP)
+### Görsel Gözlem (ESP) 
 
 - Full ESP: Box, Health, Weapon, Name, Skeleton  
 - Model ESP, Bomb ESP
