@@ -1,4 +1,4 @@
-# VAHS8BOT - CS2 EXTERNAL - DIAGNOSTIC TOOL
+# VAHS8BOT - CS2 EXTERNAL - CS2 İÇİN HİLE PAKETİ
 
 **vahs8bot**, Counter-Strike 2 (CS2) oyunu için geliştirilmiş, kullanıcı dostu Türkçe **external diagnostic hile paketidir**.  
 Sistem, donanım tabanlı lisanslama (HWID protection) altyapısıyla çalışır ve uzun süreli kullanımlar için sınırsız lisans seçeneği sunar.
