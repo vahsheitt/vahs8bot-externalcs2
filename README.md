@@ -65,8 +65,9 @@ Fiyat Bilgisi **INSTAGRAM ve TELEGRAM** üzerinden verilmektedir. İletişim Bil
 
 ## 📸 Görseller
 
-[Oyun içi Aim](https://imgur.com/a/uu8j0h1)
-[ESP](https://imgur.com/wNnpiJL)
+https://imgur.com/a/uu8j0h1
+https://imgur.com/wNnpiJL
+
 ---
 
 ## 🛠️ İletişim
