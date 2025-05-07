@@ -1,7 +1,7 @@
 # VAHS8BOT - CS2 EXTERNAL - CS2 İÇİN HİLE PAKETİ
 
 **vahs8bot**, Counter-Strike 2 (CS2) oyunu için geliştirilmiş, kullanıcı dostu Türkçe **external diagnostic hile paketidir**.  
-Sistem, donanım tabanlı lisanslama (HWID protection) altyapısıyla çalışır ve uzun süreli kullanımlar için sınırsız lisans seçeneği sunar.
+Herhangi bir ban yemeniz söz konusu bile değildir
 
 ---
 
@@ -29,14 +29,15 @@ Sistem, donanım tabanlı lisanslama (HWID protection) altyapısıyla çalışı
 
 ---
 
-## 🔐 Güvenlik & Koruma
+## 🔐 Güvenlik & Koruma | Ban yedirir mi?
 
 Bu uygulama tamamen **external** yapıda çalışır.  
 Oyun dosyalarına müdahale etmeden yalnızca ekran üzerine veri yansıtır.  
-Bu yapı, geleneksel iç müdahalelere göre daha düşük risk profiline sahiptir.  
-**Yine de geliştiriciler, bu sistemin çok oyunculu ortamlarda kullanılmasını tavsiye etmez.**
+Bu yapı, geleneksel iç müdahalelere göre %99 daha düşük risk profiline sahiptir.  
+**Yine de, bu sistemin çok oyunculu ortamlarda kullanılmasını tavsiye etmiyoruz.**
 
 ---
+
 ## 🛠️ Satım Alım ve Paketler
 
 Bu yazılım **seçtiğiniz paketle beraber size özel olarak lisanslanır**  
@@ -59,10 +60,8 @@ Fiyat Bilgisi **INSTAGRAM ve TELEGRAM** üzerinden verilmektedir. İletişim Bil
 6. Oyuna geçin ve **INSERT** tuşu ile menüyü açın/kapatın.
 
 7. Kapatmak için **END** tuşunu bir kez kullanmanız yeterlidir.
-
+   
 ---
-
-
 
 ## 📸 Görseller
 
