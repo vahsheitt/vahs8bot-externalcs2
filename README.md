@@ -1,6 +1,6 @@
-# VAHS8BOT - CS2 EXTERNAL DIAGNOSTIC TOOL
+# VAHS8BOT - CS2 EXTERNAL - DIAGNOSTIC TOOL
 
-**vahs8bot**, Counter-Strike 2 (CS2) oyunu için geliştirilmiş, kullanıcı dostu arayüzüyle dikkat çeken bir Türkçe **external diagnostic pakettir**.  
+**vahs8bot**, Counter-Strike 2 (CS2) oyunu için geliştirilmiş, kullanıcı dostu Türkçe **external diagnostic hile paketidir**.  
 Sistem, donanım tabanlı lisanslama (HWID protection) altyapısıyla çalışır ve uzun süreli kullanımlar için sınırsız lisans seçeneği sunar.
 
 ---
@@ -17,8 +17,8 @@ Sistem, donanım tabanlı lisanslama (HWID protection) altyapısıyla çalışı
 - Smooth Legit Aimbot  
 - Rage Aimbot  
 - RCS (Recoil Control)  
-- No Recoil, Crosshair Overlay  
 - Triggerbot
+- Visibility Check
 
 ### Destek Modülleri
 
@@ -37,6 +37,11 @@ Bu yapı, geleneksel iç müdahalelere göre daha düşük risk profiline sahipt
 **Yine de geliştiriciler, bu sistemin çok oyunculu ortamlarda kullanılmasını tavsiye etmez.**
 
 ---
+## 🛠️ Satım Alım ve Paketler
+
+Bu yazılım **seçtiğiniz paketle beraber size özel olarak lisanslanır**  
+Fiyat Bilgisi **INSTAGRAM ve TELEGRAM** üzerinden verilmektedir. İletişim Bilgileri En aşağıdadır.
+
 
 ## ⚙️ Kurulum Talimatları
 
@@ -57,22 +62,18 @@ Bu yapı, geleneksel iç müdahalelere göre daha düşük risk profiline sahipt
 
 ---
 
-## ⚠️ Lisans Uyarısı
 
-Bu yazılım **size özel olarak lisanslanmıştır.**  
-KEY'in herhangi bir şekilde paylaşılması veya çoğaltılması durumunda lisansınız **kalıcı olarak iptal edilecektir.**
-
----
 
 ## 📸 Görseller
 
-> Buraya tanıtım görselleri, ekran görüntüleri veya kısa bir kullanım GIF'i eklerseniz daha etkili olur.
-
+[Oyun içi Aim](https://imgur.com/a/uu8j0h1)
+[ESP](https://imgur.com/wNnpiJL)
 ---
 
 ## 🛠️ İletişim
 
 Sorularınız veya lisans işlemleri için bizimle iletişime geçin:
 
-- 📧 **ornekmail@proton.me**  
-- 💬 **Discord:** [discord.gg/orneklink](https://discord.gg/orneklink)
+- 📧 **vahs8bot.destek@gmail.com**  
+- 💬 **INSTAGRAM:** [@vahs8dev](https://www.instagram.com/vahs8dev/)
+- 💬 **TELEGRAM:** @vahs8dev
