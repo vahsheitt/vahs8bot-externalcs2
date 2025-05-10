@@ -77,11 +77,10 @@ Fiyat Bilgisi **INSTAGRAM ve TELEGRAM** üzerinden verilmektedir. İletişim Bil
 
 
 ![Resim 1](https://i.imgur.com/bjInZDF.png)
-![Resim 2](https://i.imgur.com/rf1QY6P.png)
 
 ### Oyun İçi
 
-
+![Resim 2](https://i.imgur.com/rf1QY6P.png)
 ![Resim 3](https://i.imgur.com/BhoUPq8.png)
 
 
